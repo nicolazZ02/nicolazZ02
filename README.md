@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Nicolas Gomez</h1>
+<h1 align="center">Hola👋 te doy la Bienvenida, Soy Nicolas Gomez</h1>
 <h3 align="center">Soy una analista y desarrollador que le apasaciona programar, busca formas de arreglar problemas lógicos y en equipo</h3>
 
 <h3 align="center">LENGUAJES Y HERRAMIENTAS SOBRE DESARROLLO</h3>
