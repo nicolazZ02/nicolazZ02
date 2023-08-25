@@ -1,4 +1,4 @@
-<img style="width: 950px; height: 450px;" src="/assets/N.png" alt="Mi logo"/>
+<img style="width: 550px; height: 450px;" src="/assets/N.png" alt="Mi logo"/>
 
 <h1 align="center">Hola👋 te doy la Bienvenida, Soy Nicolas Gomez</h1>
 <h3 align="center">Soy una analista y desarrollador que le apasaciona programar, busca formas de arreglar problemas lógicos y en equipo</h3>
