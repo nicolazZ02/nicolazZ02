@@ -1,4 +1,5 @@
 <img style="width: 200px; height: 200px;" src="/assets/N.png" alt="Mi logo"/>
+
 <h1 align="center">Hola👋 te doy la Bienvenida, Soy Nicolas Gomez</h1>
 <h3 align="center">Soy una analista y desarrollador que le apasaciona programar, busca formas de arreglar problemas lógicos y en equipo</h3>
 
@@ -9,5 +10,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width ="40" height="40"/> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+
 
 <p align="center"><img style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolazz02&show_icons=true&locale=en&layout=compact" alt="nicolazz02" /></p>
