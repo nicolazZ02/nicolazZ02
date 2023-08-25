@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Nicolas Gomez</h1>
-<h3 align="center">Soy una analista y desarrolladora que le apasaciona programar, busca formas de arreglar problemas lógicos y en equipo</h3>
+<h3 align="center">Soy una analista y desarrollador que le apasaciona programar, busca formas de arreglar problemas lógicos y en equipo</h3>
 
 <h3 align="center">LENGUAJES Y HERRAMIENTAS SOBRE DESARROLLO</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt=" docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -9,4 +9,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width ="40" height="40"/> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
 
-<p><img align="center" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolazz02&show_icons=true&locale=en&layout=compact" alt="nicolazz02" /></p>
+<p align="center"><img style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolazz02&show_icons=true&locale=en&layout=compact" alt="nicolazz02" /></p>
